@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="hw_01_1.PersonNewChildBuilderTest" time="0" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\Users\Knight\IdeaProjects\JavaPattern\hw_01_1\target\test-classes;C:\Users\Knight\IdeaProjects\JavaPattern\hw_01_1\target\classes;C:\Users\Knight\.m2\repository\org\junit\jupiter\junit-jupiter\5.7.1\junit-jupiter-5.7.1.jar;C:\Users\Knight\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.1\junit-jupiter-api-5.7.1.jar;C:\Users\Knight\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Knight\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Knight\.m2\repository\org\junit\platform\junit-platform-commons\1.7.1\junit-platform-commons-1.7.1.jar;C:\Users\Knight\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.7.1\junit-jupiter-params-5.7.1.jar;C:\Users\Knight\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.1\junit-jupiter-engine-5.7.1.jar;C:\Users\Knight\.m2\repository\org\junit\platform\junit-platform-engine\1.7.1\junit-platform-engine-1.7.1.jar;"/>
+    <property name="java.vm.vendor" value="JetBrains s.r.o."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Europe/Moscow"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\jbr\bin"/>
+    <property name="sun.java.command" value="C:\Users\Knight\AppData\Local\Temp\surefire10788605445370187565\surefirebooter11125992862666780482.jar C:\Users\Knight\AppData\Local\Temp\surefire10788605445370187565 2021-04-23T19-09-52_807-jvmRun1 surefire14422248739250127648tmp surefire_08910433232902602642tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Knight\IdeaProjects\JavaPattern\hw_01_1\target\test-classes;C:\Users\Knight\IdeaProjects\JavaPattern\hw_01_1\target\classes;C:\Users\Knight\.m2\repository\org\junit\jupiter\junit-jupiter\5.7.1\junit-jupiter-5.7.1.jar;C:\Users\Knight\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.1\junit-jupiter-api-5.7.1.jar;C:\Users\Knight\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Knight\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Knight\.m2\repository\org\junit\platform\junit-platform-commons\1.7.1\junit-platform-commons-1.7.1.jar;C:\Users\Knight\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.7.1\junit-jupiter-params-5.7.1.jar;C:\Users\Knight\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.1\junit-jupiter-engine-5.7.1.jar;C:\Users\Knight\.m2\repository\org\junit\platform\junit-platform-engine\1.7.1\junit-platform-engine-1.7.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Knight"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-01-19"/>
+    <property name="java.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\jbr"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Knight\IdeaProjects\JavaPattern\hw_01_1"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Knight\AppData\Local\Temp\surefire10788605445370187565\surefirebooter11125992862666780482.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.10+9-b1341.35"/>
+    <property name="user.name" value="Knight"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="Dynamic Code Evolution 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="JBR-11.0.10.9-1341.35-dcevm"/>
+    <property name="localRepository" value="C:\Users\Knight\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Knight\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2021.1"/>
+    <property name="java.version" value="11.0.10"/>
+    <property name="user.dir" value="C:\Users\Knight\IdeaProjects\JavaPattern\hw_01_1"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\jbr\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Python38\Scripts\;C:\Program Files\Python38\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\OpenVPN\ Config \&apos;client-NNNN-all.ovpn\bin;C:\Program Files\OpenVPN\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Git\cmd;C:\Users\Knight\apache-maven-3.6.3\bin;C:\Users\Knight\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="JetBrains s.r.o."/>
+    <property name="java.vm.version" value="11.0.10+9-b1341.35"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="newChildBuilder2" classname="hw_01_1.PersonNewChildBuilderTest" time="0"/>
+  <testcase name="newChildBuilder" classname="hw_01_1.PersonNewChildBuilderTest" time="0"/>
+</testsuite>
